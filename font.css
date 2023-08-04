@@ -1,0 +1,14 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Nunito Sans', sans-serif;
+}
+p{
+    /* font-family: 'Abel', sans-serif; */
+    font-family: 'Signika', sans-serif;
+    
+}
+nav ul li a{
+    font-family: 'Signika', sans-serif;
+}
+p a{
+    font-family: 'Signika', sans-serif;
+}
